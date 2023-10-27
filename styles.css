@@ -20,8 +20,7 @@ body {
 
 .wrapper {
   position: relative;
-  width: 100%;
-  max-width: 768px;
+  width: 768px;
   min-height: 480px;
   background: #fff;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
