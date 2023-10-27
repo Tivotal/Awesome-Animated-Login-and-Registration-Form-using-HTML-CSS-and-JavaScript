@@ -18,10 +18,17 @@ body {
   background: linear-gradient(to right, #e2e2e2, #c9fff0);
 }
 
+.wrapper a {
+  color: #333;
+  font-size: 13px;
+  text-decoration: none;
+  margin: 15px 0 10px;
+}
+
 .wrapper {
   position: relative;
-  width: 768px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 768px;
   min-height: 480px;
   background: #fff;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
@@ -48,13 +55,6 @@ body {
 
 .socials {
   margin: 20px 0;
-}
-
-.wrapper a {
-  color: #333;
-  font-size: 13px;
-  text-decoration: none;
-  margin: 15px 0 10px;
 }
 
 .socials a {
